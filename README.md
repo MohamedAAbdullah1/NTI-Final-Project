@@ -565,10 +565,11 @@ NTI-Final-Project/
 ├── data/
 │   ├── raw/
 │   │   └── dataset.csv
-│   │
+│   │    
 │   └── processed/
-│       ├── X_train.csv
+│       ├── processed_data.csv
 │       ├── X_test.csv
+│       ├── y_train.csv
 │       ├── y_train.csv
 │       └── y_test.csv
 │
