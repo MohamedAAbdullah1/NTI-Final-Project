@@ -3,6 +3,7 @@
 ### Mobile Network Throughput Prediction & Performance Analytics
 
 > An end-to-end Machine Learning project for predicting network data throughput and analyzing network performance using supervised and unsupervised learning.
+> Webapp link : https://nti-final-project-javkpt4buakqxoxz6c3wdl.streamlit.app/
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.13-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python">
