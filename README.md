@@ -1,6 +1,6 @@
 # 📡 NetPredict
 
-### Network Throughput Prediction & Performance Analytics
+### Mobile Network Throughput Prediction & Performance Analytics
 
 > An end-to-end Machine Learning project for predicting network data throughput and analyzing network performance using supervised and unsupervised learning.
 
