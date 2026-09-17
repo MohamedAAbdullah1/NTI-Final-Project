@@ -900,14 +900,14 @@ into a single application.
 The final system provides both a predictive perspective through regression models and an analytical perspective through network performance segmentation.
 
 ---
+## 👨‍💻 Authors
 
-# 👨‍💻 Author
+* **Mohamed Abdullah**
+* **Ahmed Mohamed Mahmoud**
+* **Azza Hossam Yehia**
+* **Merna Nady Narouz**
+* **Shahd Reda Gohary**
 
-**Mohamed Abdullah**
-**Ahmed Mohamed Mahmoud**
-**Azza Hossam Yehia**
-**Merna Nady Narouz**
-**Shahd Reda Gohary**
 ---
 
 # ⭐ Acknowledgment
