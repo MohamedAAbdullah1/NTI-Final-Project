@@ -647,7 +647,7 @@ NTI-Final-Project/
 ## 1. Clone the Repository
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
+git clone https://github.com/MohamedAAbdullah1/NTI-Final-Project
 cd NTI-Final-Project
 ```
 
