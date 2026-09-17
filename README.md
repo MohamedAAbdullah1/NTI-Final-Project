@@ -904,18 +904,10 @@ The final system provides both a predictive perspective through regression model
 # 👨‍💻 Author
 
 **Mohamed Abdullah**
-
-Computer Science Student
-Artificial Intelligence Specialization
-
-Interested in:
-
-* Machine Learning
-* Artificial Intelligence
-* Software Engineering
-* Competitive Programming
-* AI Engineering
-
+**Ahmed Mohamed Mahmoud**
+**Azza Hossam Yehia**
+**Merna Nady Narouz**
+**Shahd Reda Gohary**
 ---
 
 # ⭐ Acknowledgment
